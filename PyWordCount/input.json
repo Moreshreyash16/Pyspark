@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Hello world! This is a sample text for word count."
+    },
+    {
+        "text": "Spark is a powerful distributed data processing framework."
+    },
+    {
+        "text": "Word count is a common example in data processing."
+    }
+
+]
